@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "805733160447",
+    "firebase_url": "https://gettingstartedfcm-chat.firebaseio.com",
+    "project_id": "gettingstartedfcm-chat",
+    "storage_bucket": "gettingstartedfcm-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805733160447:android:ef783f01f80d9cd0",
+        "android_client_info": {
+          "package_name": "trinadhkoya.gihub.io.gettingstartedfcm_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805733160447-fut0jt0ou3dg63tqum490a8psg0k73e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ht45X5qAUhnAUEu4REmdwDCWSaAMuJA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805733160447-fut0jt0ou3dg63tqum490a8psg0k73e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
